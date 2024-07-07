@@ -2,4 +2,4 @@
 
 A Simple calculator app created using Javascript.
 
-![Interactive Shop/Business Website](https://i.postimg.cc/pXj99LvJ/Simple-Calulator.png)
+![Simple Calculator App](https://i.imghippo.com/files/o9hMU1720371154.png)
